@@ -13,6 +13,8 @@ public class Test1 {
 	public void test()
 	{
 		System.out.println("hello");
+		System.out.println("hello");
+
 	
 	}
 	
