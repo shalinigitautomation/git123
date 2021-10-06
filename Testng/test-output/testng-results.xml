@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-17T11:51:37 PDT" name="Suite" finished-at="2021-09-17T11:51:37 PDT" duration-ms="107">
+    <groups>
+    </groups>
+    <test started-at="2021-09-17T11:51:37 PDT" name="Test" finished-at="2021-09-17T11:51:37 PDT" duration-ms="107">
+      <class name="Testng.test3">
+        <test-method signature="Application()[pri:0, instance:Testng.test3@2e1d27ba]" started-at="2021-09-17T11:51:37 PDT" name="Application" finished-at="2021-09-17T11:51:37 PDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Application -->
+        <test-method signature="Register()[pri:0, instance:Testng.test3@2e1d27ba]" started-at="2021-09-17T11:51:37 PDT" name="Register" finished-at="2021-09-17T11:51:37 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="Submit1()[pri:0, instance:Testng.test3@2e1d27ba]" started-at="2021-09-17T11:51:37 PDT" name="Submit1" finished-at="2021-09-17T11:51:37 PDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit1 -->
+        <test-method signature="Submit2()[pri:0, instance:Testng.test3@2e1d27ba]" started-at="2021-09-17T11:51:37 PDT" name="Submit2" finished-at="2021-09-17T11:51:37 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit2 -->
+      </class> <!-- Testng.test3 -->
+      <class name="Testng.Test1">
+        <test-method signature="Name1()[pri:0, instance:Testng.Test1@53976f5c]" started-at="2021-09-17T11:51:37 PDT" name="Name1" finished-at="2021-09-17T11:51:37 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Name1 -->
+        <test-method signature="Name2()[pri:0, instance:Testng.Test1@53976f5c]" started-at="2021-09-17T11:51:37 PDT" name="Name2" finished-at="2021-09-17T11:51:37 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Name2 -->
+        <test-method signature="test()[pri:0, instance:Testng.Test1@53976f5c]" started-at="2021-09-17T11:51:37 PDT" name="test" finished-at="2021-09-17T11:51:37 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test2()[pri:0, instance:Testng.Test1@53976f5c]" started-at="2021-09-17T11:51:37 PDT" name="test2" finished-at="2021-09-17T11:51:37 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:Testng.Test1@53976f5c]" started-at="2021-09-17T11:51:37 PDT" name="after" finished-at="2021-09-17T11:51:37 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Testng.Test1 -->
+      <class name="Testng.Test2">
+        <test-method is-config="true" signature="before()[pri:0, instance:Testng.Test2@2bfc268b]" started-at="2021-09-17T11:51:37 PDT" name="before" finished-at="2021-09-17T11:51:37 PDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="method1()[pri:0, instance:Testng.Test2@2bfc268b]" started-at="2021-09-17T11:51:37 PDT" name="method1" finished-at="2021-09-17T11:51:37 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method2()[pri:0, instance:Testng.Test2@2bfc268b]" started-at="2021-09-17T11:51:37 PDT" name="method2" finished-at="2021-09-17T11:51:37 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- Testng.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
